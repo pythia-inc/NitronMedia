@@ -1,4 +1,4 @@
-# Auryo [![Join the chat at https://gitter.im/auryoapp-/Lobby](https://badges.gitter.im/auryoapp-/Lobby.svg)](https://gitter.im/auryoapp-/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-blue.svg)](https://github.com/Superjo149/auryo/issues)
+# Auryo [![Join the chat at https://gitter.im/pythia-inc/Lobby](https://badges.gitter.im/pythia-inc/Lobby.svg)](https://gitter.im/pythia-inc/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 
 > 🚨 I am currently working on a major re-write, I will keep https://github.com/Superjo149/auryo/pull/255 up-to-date. In the meanwhile, please consider supporting me via [patreon](https://www.patreon.com/sneljo) or [github sponsors](https://github.com/sponsors/Superjo149)
